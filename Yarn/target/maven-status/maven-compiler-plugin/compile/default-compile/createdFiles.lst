@@ -1,0 +1,4 @@
+com\aiger\yarn\WordCountDriver.class
+com\aiger\yarn\WordCountReducer.class
+com\aiger\yarn\WordCountMapper.class
+com\aiger\yarn\WordCount.class
